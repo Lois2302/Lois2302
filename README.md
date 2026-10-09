@@ -1,4 +1,4 @@
-https://img.shields.io/github/stars/Lois2302/Lois2302?style=for-the-badge&logo=github&color=yellow
+![stars](https://img.shields.io/github/stars/Lois2302/Lois2302?style=for-the-badge&logo=github&color=yellow)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C]( https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
