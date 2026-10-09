@@ -1,10 +1,5 @@
 ## Hi there 👋
 如你所见，号主和猫共用一个账号，如果我共享的内容出了什么问题，对不起，是猫做的，猫四个爪子比我打字快
-<!--
-**Lois2302/Lois2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently an college student
 - 🌱 I’m currently majoring in Data Science and Big Data, focusing on Java and Python, and working on Agent-related research
 - 🤖 Interested in LLM Agents, multi-agent systems and data mining
